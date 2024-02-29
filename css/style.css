@@ -1,0 +1,33 @@
+.ds-debug{
+    border: 1px solid red;
+}
+
+.odd{
+    background-color: #1abc9c;
+}
+.footer-bottom{
+    background-color: #2C3E50;
+}
+/* .card::after{
+
+} */
+nav 
+#portfolio-nav a.nav-link{
+    color: white;
+}
+#portfolio-nav a.nav-link:hover{
+    color: #1abc9c
+}
+.ds-box-image{
+    width: 20%;
+    aspect-ratio: 1 / 1;
+}
+.ds-bar-star{
+    width: 200px;
+    border: 2px solid;
+    height: 0;
+}
+
+.fa-star{
+    font-size: 2.5em;
+}
